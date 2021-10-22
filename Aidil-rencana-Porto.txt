@@ -1,0 +1,10 @@
+rencana Portofolio
+1. Foto
+  - Foto Profile
+2. Skill
+  - JavaScript
+  - Css
+  - HTML
+3. Konsep
+  - Template
+4. Warna
