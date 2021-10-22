@@ -5,6 +5,6 @@ rencana Portofolio
   - JavaScript
   - Css
   - HTML
+  - Node
 3. Konsep
-  - Template
   - Warna
