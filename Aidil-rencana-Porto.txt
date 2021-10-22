@@ -5,6 +5,7 @@ rencana Portofolio
   - JavaScript
   - Css
   - HTML
-  - Node
+  - Framework (REACT)
 3. Konsep
   - Warna
+4. Gambar / Icon
