@@ -5,6 +5,8 @@ rencana Portofolio
   - JavaScript
   - Css
   - HTML
+  - Framework
 3. Konsep
   - Template
   - Warna
+4. Gambar / Icon
