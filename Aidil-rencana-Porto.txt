@@ -7,6 +7,5 @@ rencana Portofolio
   - HTML
   - Framework (REACT)
 3. Konsep
-  - Template
   - Warna
 4. Gambar / Icon
